@@ -7,7 +7,7 @@
         span.txt--sistema 3
       h1 Conceptos para ubicación geoestacionaria de las rutas
 
-    p(data-aos="fade-right").mb-5 Es fundamental evidenciar cómo el avance de la tecnología está ligado a las mejoras de información en las operaciones de transporte, pero para entender un poco más las órbitas estacionarias y su aplicación, se presenta la definición que tiene la Real Academia de la Lengua al respecto:
+    p(data-aos="fade-right").mb-5 Es fundamental evidenciar cómo el avance de la tecnología está ligado a las mejoras de información en las operaciones de transporte, pero para entender un poco más las órbitas estacionarias y su aplicación, se presenta la definición que tiene la Real Academia Española al respecto:
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-6(data-aos="flip-right")
@@ -17,12 +17,13 @@
             i.fas.fa-quote-right
           p.bloque-texto-f__texto Órbita geoestacionaria: Int. púb. Órbita situada a unos 36 000 kilómetros del ecuador de la Tierra en la que los satélites artificiales se mueven en sincronía con la rotación terrestre y que resulta técnicamente idónea para la ubicación, sobre todo, de satélites de telecomunicaciones, pero que posee una capacidad limitada de recepción de satélites en condiciones de seguridad.
           .bloque-texto-f__autor.mb-3
-            h5.mb-0 Nota. Definición según la RAE. 
-          p.mb-0.text-small Disponible en: https://dpej.rae.es/lema/%C3%B3rbita-geoestacionaria
+            h5.mb-0 Nota. Definición según la RAE.           
 
       .col-lg-6.d-none.d-lg-flex(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t3/t3_01.png", alt="alt")
+
+    p.mb-4 A continuación, en el siguiente recurso se detallan los diferentes tipos de satélites y su clasificación:
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")(data-aos="zoom-in")
       .row(titulo="Geoestacionarios")

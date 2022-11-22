@@ -123,15 +123,15 @@
               img(src='@/assets/curso/temas/t10/t10_06.png', alt='')
         .row
           .col-lg-6.mb-4.mb-lg-0
-            h4 Manifiesto de Carga
+            h4 Manifiesto de carga
             p Documento que ampara el transporte de mercancías ante las distintas autoridades, al movilizarse en vehículos de servicio público, mediante contratación a través de empresas de transporte de carga legalmente constituidas y debidamente habilitadas por el Ministerio de Transporte.
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/t10/t10_07.png', alt='')
         .row
           .col-lg-6.mb-4.mb-lg-0
-            h4 Remesa Terrestre de Carga
-            p Documento que representa la carga que se transporta en una operación de Transporte. io o conductor de un vehículo que preste el servicio de carga.  
+            h4 Remesa terrestre de carga
+            p Documento que representa la carga que se transporta en una operación de Transporte.   
           .col-lg-6
             figure
               img(src='@/assets/curso/temas/t10/t10_08.png', alt='')
@@ -200,29 +200,29 @@
         .bg--yellow2.p-4.br--01.hg--100(data-aos="flip-right")
           figure
             img(src="@/assets/curso/temas/t10/t10_12.png", alt="alt").img85
-          h5 Enfoque al cliente.
+          h5 Enfoque al cliente
       .col-lg-3.col-md-6.col-8.mb-4.mb-lg-0
         .bg--yellow2.p-4.br--01.hg--100(data-aos="flip-right")
           figure
             img(src="@/assets/curso/temas/t10/t10_13.png", alt="alt").img85
-          h5 Liderazgo.          
+          h5 Liderazgo          
       .col-lg-3.col-md-6.col-8.mb-4.mb-lg-0
         .bg--yellow2.p-4.br--01.hg--100(data-aos="flip-right")
           figure
             img(src="@/assets/curso/temas/t10/t10_14.png", alt="alt").img85
-          h5 Compromiso de las personas.          
+          h5 Compromiso de las personas         
       .col-lg-3.col-md-6.col-8.mb-4.mb-lg-0
         .bg--yellow2.p-4.br--01.hg--100(data-aos="flip-right")
           figure
             img(src="@/assets/curso/temas/t10/t10_15.png", alt="alt").img85
-          h5 Enfoque basado en procesos.
+          h5 Enfoque basado en procesos
 
     .row.justify-content-center
       .col-lg-3.col-md-6.col-8.mb-4.mb-lg-0
         .bg--yellow2.p-4.br--01.hg--100(data-aos="flip-right")
           figure
             img(src="@/assets/curso/temas/t10/t10_16.png", alt="alt").img85
-          h5 Mejora continua.
+          h5 Mejora continua
       .col-lg-3.col-md-6.col-8.mb-4.mb-lg-0
         .bg--yellow2.p-4.br--01.hg--100(data-aos="flip-right")
           figure
@@ -237,7 +237,7 @@
         .bg--yellow2.p-4.br--01.hg--100(data-aos="flip-right")
           figure
             img(src="@/assets/curso/temas/t10/t10_19.png", alt="alt").img85
-          h5 Participación y compromiso de todo el personal de la empresa.
+          h5 Participación y compromiso de todo el personal de la empresa
 
 
 

@@ -12,7 +12,7 @@
     p(data-aos="fade-right") Las inspecciones son herramientas de control y seguimiento individual de las unidades de transporte o de los procesos que nos van a permitir realizar diagnósticos mediante formatos y registros de cómo están operativa y documentalmente todos los equipos, carga y operadores, como se muestra a continuación:
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
-      h5 Figura 1.
+      h5 Figura 2.
       span Alistamiento de medios de transporte
 
     .bg_img_01.p-4.mb-5(data-aos="zoom-in")
@@ -165,9 +165,9 @@
             img(src='@/assets/curso/temas/t7/t7_07.png', alt='')
 
 
-      .row(titulo="Para la revisión exterior")
+      .row(titulo="Para la revisión interior")
         .col-12.mb-4
-          p Para la revisión exterior, definida en la NTC 5375, los elementos a inspeccionar son:
+          p Para la revisión interior, basada en la seguridad pasiva del vehículo, la norma establece lo siguiente:
 
         .col-auto.d-none.d-lg-flex
           figure
@@ -183,13 +183,13 @@
               | #[strong Alumbrado y señalización:] es muy importante su adecuada revisión, ya que los equipos deben lograr ver y ser vistos en sus desplazamientos, importante en la seguridad activa.
             li.mb-2
               i.fa-li.fas.fa-circle.bullet--orange
-              | #[strong Salidas de emergencia:] está dada sobre todo en el transporte de pasajeros para una adecuada evacuación en caso de emergencia, esto reglamentado en la NTC 5375..
+              | #[strong Salidas de emergencia:] está dada sobre todo en el transporte de pasajeros para una adecuada evacuación en caso de emergencia, esto reglamentado en la NTC 5375.
             li.mb-2
               i.fa-li.fas.fa-circle.bullet--orange
               | #[strong Sistema de frenos:] debe evaluarse en forma detallada.
             li.mb-2
               i.fa-li.fas.fa-circle.bullet--orange
-              | #[strong Sistema de suspensión:] posibles fugas, grietas u otros daños en sus amortiguadores
+              | #[strong Sistema de suspensión:] posibles fugas, grietas u otros daños en sus amortiguadores.
             li.mb-2
               i.fa-li.fas.fa-circle.bullet--orange
               | #[strong Sistema de dirección:] revisar el líquido de dirección, revisar que no haya fugas, y el estado del líquido a baja presión de la bomba.

@@ -54,7 +54,7 @@
                 | Al ser un mantenimiento periódico reduce las consecuencias de daños mayores, pues son detectados a tiempo.  
               li.mb-2
                 i.fa-li.fas.fa-circle.bullet--orange
-                | Para estas revisiones es muy conveniente elaborar un check list, basado en las fichas técnicas de los equipos y las recomendaciones de los fabricantes, para preservar la integridad de las máquinas y tener una trazabilidad de los componentes revisados e intervenidos.
+                | Para estas revisiones es muy conveniente elaborar un #[em check list], basado en las fichas técnicas de los equipos y las recomendaciones de los fabricantes, para preservar la integridad de las máquinas y tener una trazabilidad de los componentes revisados e intervenidos.
               li.mb-2
                 i.fa-li.fas.fa-circle.bullet--orange
                 | Es de gran utilidad tener bases de datos que permitan llevar estos controles y avisen las fechas próximas de los mantenimientos y a que componentes.

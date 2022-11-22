@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Logística y programación de equipos de transporte.
+          h2 Logística y programación de equipos de transporte
         p.mb-4 Validar los conocimientos y conceptos aprendidos basados en seguimiento, inspección, mantenimiento y normas, con el fin de aplicarlos en la coordinación en transporte minimizando fallas y pérdidas.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

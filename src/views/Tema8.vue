@@ -20,7 +20,7 @@
       .col-lg-11.mb-4
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
           h5 Tabla 1.
-          span Mantenimiento de vehículo
+          span Marco normativo de transporte de carga, normas generales
 
         .tabla-a.cstmClr_01(data-aos="zoom-in")
           table
@@ -40,12 +40,12 @@
                 td Disposiciones B&aacute;sicas Sector Transporte.
               tr
                 td Ley 769 de 2002
-                td C&oacute;digo Nacional de Tr&aacute;nsito, modificado por las Leyes 1005 de 2006 y 1383 y 1397 del 2010
+                td C&oacute;digo Nacional de Tr&aacute;nsito, modificado por las Leyes 1005 de 2006 y 1383 y 1397 del 2010.
               tr
                 td Ley336 de 1996
                 td Disposiciones Generales para los Modos de Transporte.
               tr
-                td Ley 1450 de 2011,
+                td Ley 1450 de 2011
                 td Modifica el Art. 46 de la Ley 336 de 1996 y fija amnist&iacute;a para pago de multas de tr&aacute;nsito.
 
       .col-lg-11.mb-4
@@ -62,16 +62,16 @@
             tbody
               tr
                 td Decreto 2044 de 1988 
-                td Transporte de Productos Especiales.
+                td Transporte de productos especiales.
               tr
                 td Decreto 173 de 2001 
-                td Condiciones de Habilitación y de Prestación del Servicio.
+                td Condiciones de habilitación y de prestación del servicio.
               tr
                 td Resolución 2465 de 2002 
-                td Obligaciones Especiales de Cooperativas ante la Superintendencia de Transporte.
+                td Obligaciones especiales de cooperativas ante la Superintendencia de Transporte.
               tr
                 td Decreto 2868 de 2006 
-                td Capital Empresas Cooperativas.              
+                td Capital empresas cooperativas.              
               tr
                 td Decreto 1499 de 2009 
                 td Modifica Decreto 173 de 2001 (respecto a manifiesto de carga en área urbana).
@@ -108,7 +108,7 @@
                 td Modifica los Decretos 2085 y 2450 de 2008.
               tr
                 td Resoluciones 0497, 618, 1056, 1886, 2614 y 3088 y 4776 de 2009 
-                td Postulación y Pago por Chatarrización.
+                td Postulación y pago por chatarrización.
 
       .col-lg-11.mb-4
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
@@ -127,22 +127,22 @@
                 td Límites de pesos y dimensiones en los vehículos de transporte terrestre automotor de carga por carretera.
               tr
                 td Resolución 4959 de 2006  
-                td Permisos de Carga Extradimensionada.
+                td Permisos de carga extradimensionada.
               tr
                 td Resolución 5081 de 2006 
-                td Reglamenta Permisos Extradimensionada.
+                td Reglamenta permisos extradimensionada.
               tr
                 td Resolución 5280 de 2006 
-                td Reglamenta Permiso Extradimensionada.            
+                td Reglamenta permiso extradimensionada.            
               tr
                 td Resolución 4193 de 2007  
-                td Reglamenta Permisos Extradimensionada.
+                td Reglamenta permisos extradimensionada.
               tr
                 td Resolución 1782 de 2009 
                 td Modifica la Resolución 4100 de 2004 (peso en vehículos tipo 2).
               tr
                 td Resolución 5967 de 2009  
-                td Reglamenta Equipos Especiales.
+                td Reglamenta equipos especiales.
 
       .col-lg-11.mb-4
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
@@ -158,16 +158,16 @@
             tbody
               tr
                 td Acuerdo 051 de 1993  
-                td Equipo de Carretera
+                td Equipo de carretera
               tr
                 td Decreto 4116 de 2004  
-                td Condiciones para Cambio de servicio.
+                td Condiciones para cambio de servicio.
               tr
                 td Resolución 0319 de 2008 
-                td Cambio de Servicio volquetas.
+                td Cambio de servicio volquetas.
               tr
                 td Resolución 1050 de 2004 
-                td Señalización Vial.           
+                td Señalización vial.           
               tr
                 td Resolución 1384 de 2010 
                 td Establece límites de velocidad.
@@ -217,34 +217,34 @@
             tbody
               tr
                 td Resolución 300  
-                td Reglamenta Decisión 399.
+                td Reglamenta decisión 399.
               tr
                 td Decisión 399 
-                td Reglamento Transporte Internacional de mercancías por carretera.
+                td Reglamento transporte internacional de mercancías por carretera.
               tr
                 td Decisión 331  
-                td Transporte Multimodal.
+                td Transporte multimodal.
               tr
                 td Decisión 393
-                td Transporte Multimodal, modifica Decisión 331.          
+                td Transporte multimodal, modifica Decisión 331.          
               tr
                 td Decisión 327 
-                td Tránsito Aduanero Internacional.
+                td Tránsito aduanero internacional.
               tr
                 td Decisión 617
-                td Tránsito Aduanero Internacional.
+                td Tránsito aduanero internacional.
               tr
                 td Decisión 491 
-                td Pesos y Dimensiones.
+                td Pesos y dimensiones.
               tr
                 td Decisión 467
-                td Régimen de Sanciones en Transporte Internacional de Mercancías.
+                td Régimen de sanciones en transporte internacional de mercancías.
               tr
                 td Decisión 290
-                td Seguro de Responsabilidad Civil para el Transporte Internacional.
+                td Seguro de responsabilidad civil para el transporte internacional.
               tr
                 td Resolución 272 
-                td Certificado de Idoneidad.
+                td Certificado de idoneidad.
 
       .col-lg-11.mb-4
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
@@ -272,16 +272,16 @@
                 td Descripción.          
               tr
                 td Resolución 2394 de 2009 
-                td Disposiciones sobre Seguridad Equipos de Transporte.
+                td Disposiciones sobre seguridad equipos de transporte.
               tr
-                td Restricción Vehicular Domingo y Festivos
+                td Restricción vehicular domingo y festivos
                 td Descripción.
               tr
                 td Resolución 5776 de 2007  
-                td Restricción Vehicular Diciembre.
+                td Restricción vehicular diciembre.
               tr
                 td Resolución 0915 de 2010
-                td Restricción Vehicular.
+                td Restricción vehicular.
               tr
                 td Transporte Alimentos
                 td Descripción.
@@ -299,10 +299,10 @@
                 td Descripción.
               tr
                 td Resolución 4496 de 2011 
-                td Manifiesto de Carga Electrónico.
+                td Manifiesto de carga electrónico.
               tr
                 td Ley 1231 de 2008
-                td Reglamenta el Régimen de Facturas en Colombia.
+                td Reglamenta el régimen de facturas en Colombia.
               tr
                 td Resolución 1272 de 2012 
                 td Modifica Resolución 4496 de 2011.
@@ -314,25 +314,25 @@
                 td Modifica Resolución 2113 de 1997.
               tr
                 td Decreto 2092 de 2011 
-                td Regulación de Relaciones Económicas.
+                td Regulación de relaciones económicas.
               tr
                 td Resolución 2113 de 1997
-                td Condiciones de Cargue y Descargue.
+                td Condiciones de cargue y descargue.
               tr
-                td Transporte Multimodal
+                td Transporte multimodal
                 td Descripción.
               tr
                 td Código de Comercio 
                 td Art. 987.
               tr
                 td Decreto 2295 de 1996 
-                td Reglamento Transporte Multimodal.
+                td Reglamento transporte multimodal.
               tr
                 td Transporte de mercancías peligrosas
                 td Descripción.
               tr
                 td Decreto 1609 de 2002 
-                td Transporte Terrestre de Mercancías Peligrosas.
+                td Transporte terrestre de mercancías peligrosas.
 
       .col-lg-11.mb-4
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
@@ -351,22 +351,22 @@
                 td Se reglamentan los diferentes servicios de transporte terrestre automotor, acorde con el numeral 11 del artículo 189.
               tr
                 td Código de Comercio
-                td Arts. 981 al 1.035 referente al Contrato de Transporte.
+                td Arts. 981 al 1.035 referente al contrato de transporte.
               tr
                 td Ley 105 de 1993
-                td Disposiciones Básicas Sector Transporte.
+                td Disposiciones básicas sector transporte.
               tr
                 td Ley 336 de 1996
-                td Disposiciones Generales para los Modos de Transporte.
+                td Disposiciones generales para los modos de transporte.
               tr
                 td Ley 769 de 2002
-                td Código Nacional de Tránsito, modificado por las Leyes 1005 de 2006 y 1383 y 1397 del 2010.
+                td Código Nacional de tránsito, modificado por las Leyes 1005 de 2006 y 1383 y 1397 del 2010.
               tr
                 td Decreto 174 de 2001
-                td Se reglamenta el Servicio Público de Transporte Terrestre Automotor Especial.
+                td Se reglamenta el servicio público de transporte terrestre automotor especial.
               tr
                 td Decreto 176 de 2001
-                td Se establecen las obligaciones de las Empresas de Transporte Público Terrestre Automotor.
+                td Se establecen las obligaciones de las empresas de transporte público terrestre automotor.
               tr
                 td Resoluciones 3536, 3990 y 3537 del Ministerio de Transporte
                 td Los vehículos particulares que están utilizando los Contratistas, para poder continuar laborando.
