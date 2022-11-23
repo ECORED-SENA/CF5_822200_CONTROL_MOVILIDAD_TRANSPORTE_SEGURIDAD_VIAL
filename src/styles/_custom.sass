@@ -24,6 +24,9 @@
     right: 10%
     width: 90px
 
+.banner-interno__fondo
+  background-image: url(../assets/curso/portada/banner_interno.svg) !important
+
 
 @keyframes float1
   0%
@@ -65,6 +68,8 @@
   color: #F88F05
 .txt--yellow
   color: #FFD817
+.txt--quote
+  color:  #CCAC12 !important
 
 .bullet--orange
   //position: relative  
@@ -80,10 +85,21 @@
   border: 3px solid #F88F05
 
 .cstmH3
-  padding: 0.5em 2em 0 0
-  background-color: #000000
-  border-radius: 7px
+  position: relative
+  padding-right: 1.25rem  
+  & > *
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    top: 0
+    right: 0
+    width: 95%
+    height: 100%
+    background-color: #000000
+    border-radius: 7px
   h3
+    margin-left: -7px
     color: white !important
 
 .v--align
@@ -128,6 +144,8 @@
   background-color: #FFFAF3
 .bg--PaleYellow2
   background-color: #FFF6E9
+.bg--PaleYellow3
+  background-color: #FFF9DB
 .bg--paleBlue
   background-color: #F3F9FF
 .bg--paleBlue2
@@ -301,6 +319,8 @@
     top: 50%
     left: 50%
     transform: translate(-50%,-50%)
+    color: white
+    font-weight: 700
 
 .bg_slider
   background-image: url(../assets/curso/temas/recursos/bg_slider.svg)
@@ -322,6 +342,22 @@
 
 .bg--grad_01
   background: linear-gradient(90deg, rgba(255,255,255,1) 46%, rgba(255,243,205,1) 100%)
+
+.bg--half
+  position: relative
+  & > * 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    width: 100%
+    height: 50%
+    bottom: 0
+    left: 0
+    background-color: #F9F7EC
+
+.acordion__activo
+  background-color: #E8E8E8  
   
   
 
@@ -332,7 +368,6 @@
   background-color: #FFD817 !important
 
 // Slider utilities ---------------------------------------
-
 .slyder-a__bullets__item--active
   background-color: #000000 !important
   border: none
@@ -341,8 +376,9 @@
   border: none
 
 // carrusel utilities ---------------------------------------
-.slyder-f__main
+.slyder-f__main  
   .horizontal-scroll__wrapper
+    padding: 1.5em 1em
     .horizontal-scroll
       align-items: stretch !important
 
@@ -350,7 +386,6 @@
   opacity: 1 !important
 
 // Infografía ---------------------------------------
-
 .img-infografica__card
   width: 50% !important
 
@@ -358,7 +393,6 @@
     width: 100% !important
 
 // Linea de tiempo D ---------------------------------------
-
 .linea-tiempo-d__item.row.linea-tiempo-d__item--selected
   .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
     color: $color-sistema-texto
@@ -380,7 +414,6 @@
   
 
 // Tabs A ---------------------------------------
-
 .tabs-a__tab.tabs-a__tab__selected
   color: $color-sistema-texto !important  
 
@@ -389,3 +422,7 @@
 
 .tabs-a.color-acento-contenido .tabs-a__tab:hover, .tabs-a.color-acento-contenido .tabs-a__tab:active, .tabs-a.color-acento-contenido .tabs-a__tab:focus  
   color: $color-sistema-texto !important
+
+
+  
+  

@@ -64,49 +64,49 @@
     .row.mb-4(data-aos="fade-left")
       .col-auto
         .cstmH3
-          .row
+          .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/recursos/h3_icon.svg", alt="alt").img35
-            .col.gx-0
-              h3 ISO 31000 
+            .col
+              h3.mb-0 ISO 31000 
 
     p(data-aos="fade-right").mb-5 Esta norma internacional, permite definir lineamientos para gestionar el Riesgo de manera efectiva en las organizaciones en todas las actividades, la cual fue estructurada en 2018; a pesar de la diversidad y complejidad de los riesgos, es una guía de buenas prácticas, direccionada por las empresas de transporte y logística, es participativa de todos, para mejoras continuas. La ISO 31000 se basa en 11 principios, podemos destacar los siguientes:
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-10
         SlyderF(columnas="col-lg-6 col-xl-4")
-          .bg--PaleYellow.br--01.p-5.hg--100.numb(data-numb="01")
+          .bg--PaleYellow.br--01.p-5.hg--100.numb.shadow(data-numb="01")
             p.text-center.v--align.mb-0 Crea valor.
 
-          .bg--PaleYellow.br--01.p-5.hg--100.numb(data-numb="02")
+          .bg--PaleYellow.br--01.p-5.hg--100.numb.shadow(data-numb="02")
             p.text-center.v--align.mb-0 Está integrada en los procesos de la organización.
 
-          .bg--PaleYellow.br--01.p-5.hg--100.numb(data-numb="03")
+          .bg--PaleYellow.br--01.p-5.hg--100.numb.shadow(data-numb="03")
             p.text-center.v--align.mb-0 Forma parte de la toma de decisiones.
 
-          .bg--PaleYellow.br--01.p-5.hg--100.numb(data-numb="04")
+          .bg--PaleYellow.br--01.p-5.hg--100.numb.shadow(data-numb="04")
             p.text-center.v--align.mb-0 Trata explícitamente de la incertidumbre.
 
-          .bg--PaleYellow.br--01.p-5.hg--100.numb(data-numb="05")
+          .bg--PaleYellow.br--01.p-5.hg--100.numb.shadow(data-numb="05")
             p.text-center.v--align.mb-0 Es sistemática, estructurada y adecuada.
 
-          .bg--PaleYellow.br--01.p-5.hg--100.numb(data-numb="06")
+          .bg--PaleYellow.br--01.p-5.hg--100.numb.shadow(data-numb="06")
             p.text-center.v--align.mb-0 Está basada en la mejor información posible.
 
-          .bg--PaleYellow.br--01.p-5.hg--100.numb(data-numb="07")
+          .bg--PaleYellow.br--01.p-5.hg--100.numb.shadow(data-numb="07")
             p.text-center.v--align.mb-0 Está hecha a medida.
 
-          .bg--PaleYellow.br--01.p-5.hg--100.numb(data-numb="08")
+          .bg--PaleYellow.br--01.p-5.hg--100.numb.shadow(data-numb="08")
             p.text-center.v--align.mb-0 Tiene en cuenta factores humanos y culturales.
 
-          .bg--PaleYellow.br--01.p-5.hg--100.numb(data-numb="09")
+          .bg--PaleYellow.br--01.p-5.hg--100.numb.shadow(data-numb="09")
             p.text-center.v--align.mb-0 Es transparente e inclusiva.
 
-          .bg--PaleYellow.br--01.p-5.hg--100.numb(data-numb="10")
+          .bg--PaleYellow.br--01.p-5.hg--100.numb.shadow(data-numb="10")
             p.text-center.v--align.mb-0 Es dinámica, iterativa y sensible al cambio.
 
-          .bg--PaleYellow.br--01.p-5.hg--100.numb(data-numb="11")
+          .bg--PaleYellow.br--01.p-5.hg--100.numb.shadow(data-numb="11")
             p.text-center.v--align.mb-0 Facilita la mejora continua de la organización.
 
     p(data-aos="fade-right").mb-4 Esta norma está fundamentada en tres elementos, para que la gestión sea realmente efectiva en cuestión de manejo del riesgo, a saber:

@@ -39,44 +39,47 @@
     .row.mb-4(data-aos="fade-left")
       .col-auto
         .cstmH3
-          .row
+          .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/recursos/h3_icon.svg", alt="alt").img35
-            .col.gx-0
-              h3 Clasificación del transporte público de pasajeros
+            .col
+              h3.mb-0 Clasificación del transporte público de pasajeros
 
     p(data-aos="fade-right").mb-4 Teniendo en cuenta lo anterior a continuación se mencionan los diferentes tipos de transporte público de pasajeros:
 
     .row.justify-content-center.mb-4
-      .col-lg-3.col-md-7.col-10.mb-4.mb-lg-0(data-aos="flip-right")
+      .col-lg-4.col-md-6.col-10.mb-4(data-aos="flip-right")
         .bg--yellow2.p-4.br--01.hg--100
           figure
             img(src="@/assets/curso/temas/t5/t5_02.png", alt="alt").img85
           h5 Autobús
-      .col-lg-3.col-md-7.col-10.mb-4.mb-lg-0(data-aos="flip-right")
+
+      .col-lg-4.col-md-6.col-10.mb-4(data-aos="flip-right")
         .bg--yellow2.p-4.br--01.hg--100
           figure
             img(src="@/assets/curso/temas/t5/t5_03.png", alt="alt").img85
           h5 Taxi
-      .col-lg-3.col-md-7.col-10(data-aos="flip-right")
+
+      .col-lg-4.col-md-6.col-10.mb-4(data-aos="flip-right")
         .bg--yellow2.p-4.br--01.hg--100
           figure
             img(src="@/assets/curso/temas/t5/t5_04.png", alt="alt").img85
           h5 Bicicletas públicas
 
-    .row.justify-content-center.mb-5
-      .col-lg-3.col-md-7.col-10.mb-4.mb-lg-0(data-aos="flip-right")
+      .col-lg-4.col-md-6.col-10.mb-4(data-aos="flip-right")
         .bg--yellow2.p-4.br--01.hg--100
           figure
             img(src="@/assets/curso/temas/t5/t5_05.png", alt="alt").img85
           h5 Sistemas de autobuses de tránsito rápido (BRT)
-      .col-lg-3.col-md-7.col-10.mb-4.mb-lg-0(data-aos="flip-right")
+
+      .col-lg-4.col-md-6.col-10.mb-4(data-aos="flip-right")
         .bg--yellow2.p-4.br--01.hg--100
           figure
             img(src="@/assets/curso/temas/t5/t5_06.png", alt="alt").img85
           h5 Tren y/o metros, tranvías
-      .col-lg-3.col-md-7.col-10(data-aos="flip-right")
+
+      .col-lg-4.col-md-6.col-10.mb-4(data-aos="flip-right")
         .bg--yellow2.p-4.br--01.hg--100
           figure
             img(src="@/assets/curso/temas/t5/t5_07.png", alt="alt").img85
@@ -96,12 +99,12 @@
     .row.mb-4(data-aos="fade-left")
       .col-auto
         .cstmH3
-          .row
+          .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/recursos/h3_icon.svg", alt="alt").img35
-            .col.gx-0
-              h3 Ventajas
+            .col
+              h3.mb-0 Ventajas
 
     .row.justify-content-center
       .col-lg-5.col-8.mb-4.mb-lg-0(data-aos="zoom-in")

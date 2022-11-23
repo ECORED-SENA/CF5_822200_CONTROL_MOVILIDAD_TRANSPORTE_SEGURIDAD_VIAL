@@ -30,12 +30,12 @@
     .row.mb-4(data-aos="fade-left")
       .col-auto
         .cstmH3
-          .row
+          .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/recursos/h3_icon.svg", alt="alt").img35
-            .col.gx-0
-              h3 Técnicas de inspección 
+            .col
+              h3.mb-0 Técnicas de inspección 
 
     p(data-aos="fade-right").mb-4 Para que un vehículo pueda transitar por el territorio nacional:
 
@@ -45,22 +45,22 @@
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          p.bloque-texto-f__texto Debe garantizar como mínimo un perfecto funcionamiento de frenos, del sistema de dirección, del sistema de suspensión, del sistema de señale visuales y audibles permitidas y del sistema de escape de gases; y demostrar un estado adecuado de llantas, del conjunto de vidrios de seguridad y de los espejos y cumplir con las normas de emisiones contaminantes que establezcan las autoridades ambientales.
+          p.bloque-texto-f__texto.text-center Debe garantizar como mínimo un perfecto funcionamiento de frenos, del sistema de dirección, del sistema de suspensión, del sistema de señale visuales y audibles permitidas y del sistema de escape de gases; y demostrar un estado adecuado de llantas, del conjunto de vidrios de seguridad y de los espejos y cumplir con las normas de emisiones contaminantes que establezcan las autoridades ambientales.
           .bloque-texto-f__autor
             h5.mb-0 - Ley 769 de 2002, Código Nacional de Tránsito Terrestre          
       .col-lg-4.d-none.d-lg-flex(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t7/t7_04.png", alt="alt")
 
-    .row.mb-4(data-aos="fade-left")
+    .row.mb-5(data-aos="fade-left")
       .col-auto
         .cstmH3
-          .row
+          .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/recursos/h3_icon.svg", alt="alt").img35
-            .col.gx-0
-              h3 Resolución 3768 de 2013
+            .col
+              h3.mb-0 Resolución 3768 de 2013
 
     .rectangle_02.mb-5(data-aos="fade-right")
       .row.justify-content-center.align-items-center
@@ -131,7 +131,7 @@
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris").mb-5(data-aos="zoom-in")
       .row(titulo="Para la revisión exterior")
-        .col-12.mb-4
+        .col-12.mb-4.ms-lg-5
           p Para la revisión exterior, definida en la NTC 5375, los elementos a inspeccionar son:
                 
         .col-auto
@@ -166,10 +166,10 @@
 
 
       .row(titulo="Para la revisión interior")
-        .col-12.mb-4
+        .col-12.mb-4.ms-lg-5
           p Para la revisión interior, basada en la seguridad pasiva del vehículo, la norma establece lo siguiente:
 
-        .col-auto.d-none.d-lg-flex
+        .col-auto.d-none.d-lg-flex.ms-lg-5
           figure
             img(src='@/assets/curso/temas/t7/t7_08.png', alt='')
         .col-auto.d-flex.d-lg-none.order-2.order-lg-1
@@ -209,12 +209,12 @@
     .row.mb-4(data-aos="fade-left")
       .col-auto
         .cstmH3
-          .row
+          .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/recursos/h3_icon.svg", alt="alt").img35
-            .col.gx-0
-              h3 Alistamiento de unidades de transporte
+            .col
+              h3.mb-0 Alistamiento de unidades de transporte
 
     p(data-aos="fade-right").mb-5 Una vez la unidad de transporte ha llegado para el proceso de cargue, todos los vehículos deben cumplir con la revisión e inspección como proceso de alistamiento, de la siguiente manera:
 

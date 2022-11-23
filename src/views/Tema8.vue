@@ -382,7 +382,7 @@
                     img(src="@/assets/curso/temas/recursos/call_01.svg", alt="alt").img65 
         
             .col-lg.mb-4.mb-lg-0
-              h4.mb-0 Marco Normativo en Transporte de Carga
+              h3.mb-3 Marco Normativo en Transporte de Carga
               p.b-0 Para profundizar en el Marco Normativo en Transporte de Carga descargue el siguiente archivo:
             .col-auto         
               a.boton.color-botones.texto-blanco(:href="obtenerLink('/downloads/Normas_transporte.pdf')" target="_blank")

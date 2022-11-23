@@ -15,11 +15,11 @@
         p El transporte, y la logística en general, incide de manera directa con el costo de los productos y la decisión importante es decidir cómo se va a transportar, en qué tiempos se debe entregar, qué flexibilidad de maniobra tengo en caso de alguna contingencia para cambiar el modo o el medio de transporte, buscando siempre reducir al máximo los costos, los reprocesos y los trasbordos, apoyándonos en muchas ocasiones de las posibilidades del transporte multimodal.
         p.mb-0 El transporte de mercancías se puede realizar usando uno o más de los siguientes modos de transporte, así:
 
-    
-    .row.justify-content-center(data-aos="fade-right")
-      .col-auto
-        .hlgt--yellow02
-          h3.mb-0 Modos del transporte
+    .bg--half
+      .row.justify-content-center(data-aos="fade-right")
+        .col-auto
+          .hlgt--yellow02
+            h4.mb-0 Modos del transporte
 
     .bg_img_01.py-5.px-lg-0.px-4.mb-5
       .row.justify-content-center(data-aos="zoom-in")        
@@ -35,12 +35,12 @@
     .row.mb-4(data-aos="fade-left")
       .col-auto
         .cstmH3
-          .row
+          .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/recursos/h3_icon.svg", alt="alt").img35
-            .col.gx-0
-              h3 Transporte marítimo y fluvial 
+            .col
+              h3.mb-0 Transporte marítimo y fluvial 
 
     p(data-aos="fade-right") A nivel mundial es el más utilizado para el comercio internacional, ya que tiene ventajas muy importantes pues puede movilizar grandes volúmenes de carga a un costo muy económico, en la actualidad más del 80 por ciento de las mercancías a nivel global se mueven a través de este modo. 
 
@@ -52,31 +52,31 @@
         p(data-aos="fade-right") Para este transporte de grandes dimensiones, se utilizan como medio los buques, los cuales están clasificados de la siguiente manera:
 
         TabsA.color-acento-contenido(data-aos="fade-right")
-          .bg--PaleYellow2.p-4.br--02(titulo="Buques portacontenedores")
+          .bg--PaleYellow3.p-4.br--02(titulo="Buques portacontenedores")
             h4 Buques portacontenedores
             p Transportan las mercancías y las carga en contenedores estándar de 20 y 40 pies de longitud.
 
-          .bg--PaleYellow2.p-4.br--02(titulo="Buques graneleros")
+          .bg--PaleYellow3.p-4.br--02(titulo="Buques graneleros")
             h4 Buques graneleros
             p Son dedicados al transporte de carga a granel, pero secas, como granos, carbón, etc.
 
-          .bg--PaleYellow2.p-4.br--02(titulo="Buques petroleros")
+          .bg--PaleYellow3.p-4.br--02(titulo="Buques petroleros")
             h4 Buques petroleros
             p Son dedicados al transporte de carga líquida petróleo o sus derivados.
 
-          .bg--PaleYellow2.p-4.br--02(titulo="Buques portacontenedores")
+          .bg--PaleYellow3.p-4.br--02(titulo="Buques portacontenedores")
             h4 Buques portacontenedores
             p A este se le llama TEU #[em (Twenty-foot Equivalent Unit)] y por lo tanto la capacidad de estos buques está medida en TEU.
 
     .row.mb-4(data-aos="fade-left")
       .col-auto
         .cstmH3
-          .row
+          .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/recursos/h3_icon.svg", alt="alt").img35
-            .col.gx-0
-              h3 Transporte ferroviario
+            .col
+              h3.mb-0 Transporte ferroviario
 
     p(data-aos="fade-right") Después del transporte marítimo es el segundo más económico, ya que permite la movilización de enormes cantidades de mercancías y cargas a larga distancia. Entre las ventajas más significativas están:
 
@@ -110,31 +110,31 @@
           img(src="@/assets/curso/temas/t4/t4_05.png", alt="alt")
       .col-lg-9(data-aos="fade-right")
         TabsA.color-acento-contenido
-          .bg--PaleYellow2.p-4.br--02(titulo="Ferrocarril o tren")
+          .bg--PaleYellow3.p-4.br--02(titulo="Ferrocarril o tren")
             h4 Ferrocarril o tren
             p Compuesto por una locomotora y sus vagones para carga o pasajeros.
 
-          .bg--PaleYellow2.p-4.br--02(titulo="Subterráneo o metro")
+          .bg--PaleYellow3.p-4.br--02(titulo="Subterráneo o metro")
             h4 Subterráneo o metro
             p Son trenes de movimientos en las ciudades, generalmente para movilización de pasajeros, en donde la red está interconectada y compuesta de estaciones para ascenso y descenso de pasajeros.
 
-          .bg--PaleYellow2.p-4.br--02(titulo="Tranvía")
+          .bg--PaleYellow3.p-4.br--02(titulo="Tranvía")
             h4 Tranvía
             p Al igual que el metro, este se moviliza en las ciudades, pero la diferencia es que este va sobre la superficie de las ciudades, compartiendo con otros modos de transporte la infraestructura.
 
-          .bg--PaleYellow2.p-4.br--02(titulo="Funicular")
+          .bg--PaleYellow3.p-4.br--02(titulo="Funicular")
             h4 Funicular
             p Es la versión del tranvía, pero aéreo, cuya locomoción está basada en cables de alta resistencia en lugares con topografía montañosa y en los cuales los vagones se trasladan suspendidos.
 
     .row.mb-4(data-aos="fade-left")
       .col-auto
         .cstmH3
-          .row
+          .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/recursos/h3_icon.svg", alt="alt").img35
-            .col.gx-0
-              h3 Transporte carretero 
+            .col
+              h3.mb-0 Transporte carretero 
 
     .row.justify-content-center.mb-4
       .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
@@ -158,12 +158,12 @@
     .row.mb-4(data-aos="fade-left")
       .col-auto
         .cstmH3
-          .row
+          .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/recursos/h3_icon.svg", alt="alt").img35
-            .col.gx-0
-              h3 Transporte aéreo
+            .col
+              h3.mb-0 Transporte aéreo
 
     .row.justify-content-center.mb-4
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
@@ -182,14 +182,14 @@
           figure
             img(src="@/assets/curso/temas/t4/t4_09.png", alt="alt")
           .p-4
-            h4.text-white Transporte en aviones comerciales 
+            h5.text-white Transporte en aviones comerciales 
             p.text-white.mb-0 Se especializa en transporte de pasajeros y pequeñas unidades de carga.
       .col-lg-6.g-0(data-aos="flip-left")
         .bg--orange02.hg--100
           figure
             img(src="@/assets/curso/temas/t4/t4_10.png", alt="alt")
           .p-4
-            h4 Transporte en aviones de carga 
+            h5 Transporte en aviones de carga 
             p.mb-0 Su fuerte es el movimiento de carga, que cumpla con ciertas características de tamaño, peso, embalaje acorde al tipo de avión y longitudes de pista.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -200,7 +200,7 @@
         .row.mb-4
           .col-auto
             .hlgt--yellow02
-              h3.mb-0 Características técnicas
+              h4.mb-0 Características técnicas
         ul.fa-ul
           li.mb-2
             i.fa-li.fas.fa-circle.bullet--orange
@@ -218,12 +218,12 @@
     .row.mb-4(data-aos="fade-left")
       .col-auto
         .cstmH3
-          .row
+          .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/recursos/h3_icon.svg", alt="alt").img35
-            .col.gx-0
-              h3 Transporte multimodal
+            .col
+              h3.mb-0 Transporte multimodal
 
     .row.justify-content-center
       .col-xl-7.mb-4.mb-xl-0

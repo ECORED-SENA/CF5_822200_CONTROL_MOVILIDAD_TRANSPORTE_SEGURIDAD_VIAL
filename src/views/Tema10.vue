@@ -15,19 +15,19 @@
         p Es importante que dentro de toda la cadena logística de transporte estén regulados, también, los proveedores de los bienes a transportar, por lo tanto, y en paralelo a la documentación hay que conocer quiénes son los intervinientes; a continuación, se enuncian los participantes en la cadena de suministro:
 
         TabsA.color-acento-contenido
-          .bg--PaleYellow2.p-4.br--02(titulo="Proveedores")
+          .bg--PaleYellow3.p-4.br--02(titulo="Proveedores")
             h4 Proveedores
             p Están encargados de ofrecer los servicios y bienes, movilizan los bienes o servicios a través del transporte con sus modos y medios.
 
-          .bg--PaleYellow2.p-4.br--02(titulo="Las fábricas")
+          .bg--PaleYellow3.p-4.br--02(titulo="Las fábricas")
             h4 Las fábricas
             p Encargadas de la transformación de los bienes y servicios llevados a través de los diferentes modos de transporte, su función es la de transportar las materias primas y productos acabados entre las empresas y sus clientes. 
 
-          .bg--PaleYellow2.p-4.br--02(titulo="Clientes")
+          .bg--PaleYellow3.p-4.br--02(titulo="Clientes")
             h4 Clientes
             p Son más que consumidores pasivos son una mina de conocimientos y experiencias, para que la empresa se mantenga como la mejor opción, toda esta interconexión se ocupa de satisfacer necesidades del cliente final. 
 
-          .bg--PaleYellow2.p-4.br--02(titulo="Estado")
+          .bg--PaleYellow3.p-4.br--02(titulo="Estado")
             h4 Estado
             p Es necesario que se cumpla a cabalidad con unos requisitos mínimos en la documentación, conocer la normatividad vigente en el país, que documentos son exigibles, dependiendo el proceso que se vaya a revisar.
 
@@ -40,7 +40,7 @@
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris").mb-5(data-aos="zoom-in")
       .row.justify-content-center.align-items-center(titulo="Licencia de tránsito")
-        .col-xl.mb-4
+        .col-xl.mb-4.ms-lg-5
           p Identifica al vehículo como legal, acredita la propiedad y autorizado para transitar por todo el territorio colombiano, contiene la siguiente información:
           .row
             .col-lg-6
@@ -86,27 +86,27 @@
         .col-auto.mb-4.mb-xl-0
           figure
             img(src='@/assets/curso/temas/t10/t10_02.png', alt='') 
-        .col-12
+        .col-12.ms-lg-5
           p.mb-0 El Código Nacional de Tránsito tiene establecido que en ningún caso se puede circular sin portar licencia de tránsito, pues acarrea multa e inmovilización del vehículo.
 
       .row.justify-content-center.align-items-center(titulo="Licencia de conducción")
-        .col-12.mb-4
+        .col-12.mb-4.ms-lg-5
           p Acredita para la conducción de vehículos automotores dependiendo de la categoría que se obtenga.
-        .col-12
+        .col-12.ms-lg-5
           figure
             img(src='@/assets/curso/temas/t10/t10_03.png', alt='') 
 
       .row.justify-content-center.align-items-center(titulo="Seguro Obligatorio de Accidentes de Tránsito (SOAT)")
-        .col-12.mb-4
+        .col-12.mb-4.ms-lg-5
           p Establecido por Ley con un fin social. Su objetivo es asegurar la atención, de manera inmediata e incondicional, de las víctimas de accidentes de tránsito que sufren lesiones corporales y muerte.
-        .col-12
+        .col-12.ms-lg-5
           figure
             img(src='@/assets/curso/temas/t10/t10_04.png', alt='') 
 
       .row.justify-content-center.align-items-center(titulo="Certificado de Revisión Técnico-Mecánica y de Gases")
-        .col-12.mb-4
+        .col-12.mb-4.ms-lg-5
           p Aplica para todos los vehículos y certifica que se encuentren en buenas condiciones, garantizando la seguridad vial a todos los actores viales.
-        .col-12
+        .col-12.ms-lg-5
           figure
             img(src='@/assets/curso/temas/t10/t10_05.png', alt='')
 
@@ -158,10 +158,11 @@
 
     p(data-aos="fade-right").mb-5 La evaluación del riesgo es una fase muy importante en el desarrollo del proceso de planeación, se indica su desarrollo, así:
 
-    .row.justify-content-center
+    .bg--half
+      .row.justify-content-center
         .col-auto
           .hlgt--yellow02
-            h3.mb-0 Modos del transporte
+            h4.mb-0 Evaluación y gestión del riesgo
 
     .bg_img_01.p-5.mb-5(data-aos="zoom-in")
       ImagenInfografica.color-primario
