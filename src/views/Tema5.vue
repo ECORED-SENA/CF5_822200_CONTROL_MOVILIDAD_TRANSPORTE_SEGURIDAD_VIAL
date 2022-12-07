@@ -28,7 +28,7 @@
               figure
                 img(src="@/assets/curso/temas/recursos/quote_01.svg", alt="alt").img25
             .col
-              p se debe dar prioridad a la inversión en los modos de transporte público, como los trenes de metro, los sistemas de autobuses de tránsito rápido (BRT) o los autobuses y la bicicleta pública en lugar de los coches.
+              p Se debe dar prioridad a la inversión en los modos de transporte público, como los trenes de metro, los sistemas de autobuses de tránsito rápido (BRT) o los autobuses y la bicicleta pública en lugar de los coches.
           .row.justify-content-end
             .col-auto
               p #[strong -(Piarc, s. f.) ] 

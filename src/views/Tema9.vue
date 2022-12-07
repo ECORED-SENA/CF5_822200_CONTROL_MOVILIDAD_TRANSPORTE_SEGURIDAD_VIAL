@@ -77,7 +77,7 @@
                 | Se basa en realizar un diagnóstico y supervisión, basado en las características del equipo y fichas técnicas, para predecir y prevenir daños o averías y determinar cuando debería ser sustituido la pieza o componente antes que falle, es mucho más anticipado que el mantenimiento preventivo, pues no se interviene cuando la pieza falla. 
               li.mb-0
                 i.fa-li.fas.fa-circle.bullet--orange
-                | Este mantenimiento tiene la ventaja que los equipos pueden tener más tiempo de operación y las intervenciones para su mantenimiento son muy rápidas, la desventaja radica en tener las herramientas y tecnologías que permitan hacer estos diagnósticos y determinar la periodicidad del cambio de todos los componentes             
+                | Este mantenimiento tiene la ventaja que los equipos pueden tener más tiempo de operación y las intervenciones para su mantenimiento son muy rápidas, la desventaja radica en tener las herramientas y tecnologías que permitan hacer estos diagnósticos y determinar la periodicidad del cambio de todos los componentes.             
           .col-auto
             figure
               img(src="@/assets/curso/temas/t9/t9_06.png", alt="alt")

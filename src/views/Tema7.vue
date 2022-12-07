@@ -45,7 +45,7 @@
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          p.bloque-texto-f__texto.text-center Debe garantizar como mínimo un perfecto funcionamiento de frenos, del sistema de dirección, del sistema de suspensión, del sistema de señale visuales y audibles permitidas y del sistema de escape de gases; y demostrar un estado adecuado de llantas, del conjunto de vidrios de seguridad y de los espejos y cumplir con las normas de emisiones contaminantes que establezcan las autoridades ambientales.
+          p.bloque-texto-f__texto.text-center Debe garantizar como mínimo un perfecto funcionamiento de frenos, del sistema de dirección, del sistema de suspensión, del sistema de señales visuales y audibles permitidas y del sistema de escape de gases; y demostrar un estado adecuado de llantas, del conjunto de vidrios de seguridad y de los espejos y cumplir con las normas de emisiones contaminantes que establezcan las autoridades ambientales.
           .bloque-texto-f__autor
             h5.mb-0 - Ley 769 de 2002, Código Nacional de Tránsito Terrestre          
       .col-lg-4.d-none.d-lg-flex(data-aos="zoom-in")

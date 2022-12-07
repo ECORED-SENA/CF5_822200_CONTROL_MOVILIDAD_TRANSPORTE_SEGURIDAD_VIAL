@@ -171,7 +171,7 @@
             img(src='@/assets/curso/temas/t10/t10_11.svg', alt='')
 
         .bg--yellow2.p-3(x="17%" y="18%" numero="+")
-          .h5.mb-2 Operaciónde logística de transporte
+          .h5.mb-2 Operación de logística de transporte
           p.mb-0 Determinar las características de la geografía de rutas de transporte y del plan de rutas.
 
         .bg--yellow2.p-3(x="11%" y="41.5%" numero="+")
@@ -180,11 +180,11 @@
 
         .bg--yellow2.p-3(x="17%" y="85%" numero="+")
           .h5.mb-2 Norma ISO 9001 y la ISO 14001
-          p.mb-0 Evaluando los riesgos a los trabajadores y los impactos al medio ambiente por las emisiones producto de nuestras actividades. en los temas de transporte, la integridad de operador, equipo y carga.
+          p.mb-0 Evaluando los riesgos a los trabajadores y los impactos al medio ambiente por las emisiones producto de nuestras actividades, en los temas de transporte, la integridad de operador, equipo y carga.
 
         .bg--yellow2.p-3(x="83%" y="15%" numero="+")
           .h5.mb-2 Planes de contingencia
-          p.mb-0 Son documentos que dan directrices, para generar estrategias, procesos, procedimientos, protocolos etc. y dar respuesta apropiada a la atención de los incidentes que se puedan dar como desarrollo de las operaciones de transporte.
+          p.mb-0 Son documentos que dan directrices, para generar estrategias, procesos, procedimientos, protocolos, etc. y dar respuesta apropiada a la atención de los incidentes que se puedan dar como desarrollo de las operaciones de transporte.
 
         .bg--yellow2.p-3(x="89%" y="41.5%" numero="+")
           .h5.mb-2 Aseguramiento de la calidad

@@ -42,7 +42,7 @@
                 td Ley 769 de 2002
                 td C&oacute;digo Nacional de Tr&aacute;nsito, modificado por las Leyes 1005 de 2006 y 1383 y 1397 del 2010.
               tr
-                td Ley336 de 1996
+                td Ley 336 de 1996
                 td Disposiciones Generales para los Modos de Transporte.
               tr
                 td Ley 1450 de 2011
@@ -158,7 +158,7 @@
             tbody
               tr
                 td Acuerdo 051 de 1993  
-                td Equipo de carretera
+                td Equipo de carretera.
               tr
                 td Decreto 4116 de 2004  
                 td Condiciones para cambio de servicio.
@@ -175,7 +175,7 @@
       .col-lg-11.mb-4
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
           h5 Tabla 6.
-          span Marco normativo en transporte de carga, transito aduanero
+          span Marco normativo en transporte de carga, tránsito aduanero
 
         .tabla-a.cstmClr_01(data-aos="zoom-in")
           table
